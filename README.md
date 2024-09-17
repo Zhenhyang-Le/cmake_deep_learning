@@ -1,0 +1,2 @@
+# cmake_deep_learning
+主要从深度应用的角度来讲解cmake跨平台使用技巧
